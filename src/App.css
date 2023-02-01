@@ -1,0 +1,28 @@
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  width: 100%;
+  margin-top: 60px;
+}
+.main-container{
+  width: 1140px;
+  margin: 0 auto;
+  height: 250px;
+}
+table{
+  width: 100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td,th{
+  padding: 10px;
+  text-align: center;
+}
+.text-start td{
+  text-align: start;
+}
